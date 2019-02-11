@@ -9,6 +9,5 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2019/02/11/calzone_fb.png"
-published: false
 
 ---
