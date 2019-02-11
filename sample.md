@@ -9,5 +9,13 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2019/02/11/calzone_fb.png"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Sample
+  content: Sdasdasd
+  media:
+    image: "/uploads/2019/02/11/calzone_fb.png"
+    alt_text: asdasd
 
 ---
