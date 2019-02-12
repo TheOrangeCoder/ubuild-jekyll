@@ -17,5 +17,8 @@ page_sections:
   media:
     image: "/uploads/2019/02/11/calzone_fb.png"
     alt_text: asdasd
+menu:
+  main:
+    weight: 2
 
 ---
