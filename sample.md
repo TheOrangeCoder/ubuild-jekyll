@@ -17,6 +17,10 @@ page_sections:
   media:
     image: "/uploads/2019/02/11/calzone_fb.png"
     alt_text: asdasd
+- template: detail-content
+  block: text-1
+  content: "<p>wefqwef</p><p>wefqwewf</p><p></p><p>wefwefwqefqwef</p>"
+  headline: TEST
 menu:
   main:
     weight: 2
